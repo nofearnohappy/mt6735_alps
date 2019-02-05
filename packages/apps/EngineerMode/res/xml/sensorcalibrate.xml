@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+	<Preference android:key="gsensorcalibrate" 
+	                style="?android:preferenceInformationStyle"
+	                android:title="@string/gsensorcalibrate"
+	                android:summary="@string/calibrate"
+	                android:enabled="true"/>
+	
+	<Preference android:key="msensordata" 
+	                style="?android:preferenceInformationStyle"
+	                android:title="@string/msensordata"
+	                android:summary="@string/calibrate"/>
+	
+	<Preference android:key="lightdata" 
+	                style="?android:preferenceInformationStyle"
+	                android:title="@string/lightdata"
+	                android:summary="@string/calibrate"/>
+	
+	<Preference android:key="pscalibrate" 
+	                style="?android:preferenceInformationStyle"
+	                android:title="@string/pscalibrate"
+	                android:summary="@string/calibrate"
+	                android:enabled="true"/>
+	
+	<Preference android:key="gyroscopecalibrate" 
+	                style="?android:preferenceInformationStyle"
+	                android:title="@string/gyroscopecalibrate"
+	                android:summary="@string/calibrate"
+	                android:enabled="true"/>
+</PreferenceScreen>

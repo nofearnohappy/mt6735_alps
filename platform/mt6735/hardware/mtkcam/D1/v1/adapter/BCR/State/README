@@ -1,0 +1,14 @@
+WHAT IT DOES?
+=============
+camera 2D barcode reader adapter for hal and driver related state files.
+
+
+HOW IT WAS BUILT?
+==================
+It can build the following static library file :
+libcam.camadapter.BCR.state.a
+
+
+HOW TO USE IT?
+==============
+Provide related api for camera 2D barcode reader state adapter for hal and driver.

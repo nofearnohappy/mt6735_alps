@@ -1,0 +1,5 @@
+<resources>
+	<style name="Theme.NewActionBar" parent="@android:style/Theme.Material.Light.DarkActionBar">
+		<item name="android:colorPrimary">@color/theme_primary</item>
+	</style>
+</resources>

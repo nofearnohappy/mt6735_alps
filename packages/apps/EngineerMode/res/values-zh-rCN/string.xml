@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    	<!-- 校准 -->
+    <string name="sensor_ps">传感器校准</string>
+    <string name="sensor_calibration_gsensor">加速度传感器校准</string>
+	<string name="calibrate">校准</string>
+	<string name="gsensorcalibrate">加速度传感器校准</string>
+	<string name="msensordata">磁传感器数据</string>
+	<string name="lightdata">光传感器数据</string>
+	<string name="pscalibrate">接近传感器校准</string>
+	<string name="gyroscopecalibrate">陀螺仪传感器校准</string>
+
+	<string name="sensor_calibration_do_20">进行校准 (20% 容限)</string>
+    <string name="sensor_calibration_do_40">进行校准 (40% 容限)</string>
+    <string name="sensor_calibration_clear">清除校准信息</string>
+    <string name="sensor_calibration_note">注意: 在校准的时候手机必须静止放在水平方向.</string>
+	<string name="sensor_calibration_current_data_hint">传感器当前的数据 : </string>
+    <string name="sensor_calibration_sensor_data_hint">传感器校准的数据: </string>
+    
+    <string name="operation_succeed">操作成功</string>
+    <string name="operation_failed">操作失败</string>
+    <string name="get_calibration_failed">获取校准数据失败</string>
+    
+    <string name="sensor_ps_calibration_current_data">接近传感器:\n门限 高值:\n门限 低值:"</string>
+    <string name="sensor_ps_calibration_current_data_format">"接近传感器: %1$d\n门限 高值: %2$d\n门限 低值: %3$d"</string>
+    
+    <string name="sensor_ps_calibration_do_cali_hint">水平放置手机,点击按键.\n注意: 点击按键后,不要盖住接近传感器.</string>
+    <string name="sensor_ps_calibration_offset_value">偏移值: </string>
+ 
+    <string name="sensor_ps_calibration_do_cali">开始校准</string>
+    <string name="sensor_ps_calibration_clear_cali">清除校准</string>
+    <string name="sensor_ps_calibration_result">结果: </string>
+    <string name="sensor_ps_calibration_result_succeed">校准成功</string>
+    <string name="sensor_ps_calibration_result_failed">校准失败</string>
+    <string name="sensor_ps_calibration_clear_succeed">清除成功</string>
+    <string name="sensor_ps_calibration_clear_failed">清除失败</string>
+
+    <string name="g_sensor_data">加速传感器数据: </string>
+    <string name="light_data">光感数据: </string>
+    <string name="ps_data">接近传感器数据: </string>
+    <string name="m_sensor_data">磁传感器数据: </string>
+</resources>
